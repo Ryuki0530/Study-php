@@ -1,3 +1,7 @@
+*{
+    background-color: blanchedalmond;
+}
+
 .container{
     /*フレックス設定*/
     display:flex;

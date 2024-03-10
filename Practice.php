@@ -1,6 +1,6 @@
 <html>
     <head>
-        <link rel = "stylesheet" href= "style1.css">
+        <link rel = "stylesheet" href= "PracticeStyle.css">
     </head>
     <body>
         <br><br><br><br>
